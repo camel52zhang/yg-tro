@@ -1,4 +1,4 @@
-//基于勇哥的项目trojan，地址是https://github.com/yonggekkk/Cloudflare_vless_trojan/tree/main/Trojan_workers_pages
+// 基于勇哥的项目trojan，地址是https://github.com/yonggekkk/Cloudflare_vless_trojan/tree/main/Trojan_workers_pages
 // src/worker.js
 import { connect } from "cloudflare:sockets";
  
